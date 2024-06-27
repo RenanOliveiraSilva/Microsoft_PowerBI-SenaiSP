@@ -1,0 +1,5 @@
+Tabelas Fato
+Ocorrência -> Podem se repetir
+
+Tabelas Dimensão
+Cadastro -> Não se repetem
